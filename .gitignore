@@ -1,0 +1,12 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Lo que crea el alumno al hacer el curso (no es parte del curso)
+/guion.md
+/mi-estilo.md
+/notas-para-presentar.md
+/notas-proyecto.md
+/*.pptx
+/*.pdf

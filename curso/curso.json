@@ -1,0 +1,38 @@
+{
+  "slug": "presentaciones_con_claude",
+  "nombre": "Presentaciones con Claude",
+  "se_abre": "2026-11-15",
+  "acceso": "gratis",
+  "lecciones": [
+    {
+      "orden": 1,
+      "titulo": "Tu primera presentación en diez minutos",
+      "archivo": "leccion1.md"
+    },
+    {
+      "orden": 2,
+      "titulo": "Primero la historia",
+      "archivo": "leccion2.md"
+    },
+    {
+      "orden": 3,
+      "titulo": "Que se vea tuya",
+      "archivo": "leccion3.md"
+    },
+    {
+      "orden": 4,
+      "titulo": "Desde tus archivos",
+      "archivo": "leccion4.md"
+    },
+    {
+      "orden": 5,
+      "titulo": "Revisar, ensayar y descargar",
+      "archivo": "leccion5.md"
+    },
+    {
+      "orden": 6,
+      "titulo": "Y ahora, todo lo demás",
+      "archivo": "leccion6.md"
+    }
+  ]
+}
