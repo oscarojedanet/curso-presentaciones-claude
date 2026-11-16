@@ -29,7 +29,7 @@ Action: Usa marcar_progreso con paso 3.
 
 Paso 4 — La versión 2
 Say: Ahora rehago tu presentación desde el guion. Misma presentación, mismo enlace: solo cambia lo de dentro.
-Action: Actualiza la MISMA presentación (el enlace de progreso.md) siguiendo la sección "Diapositivas" de guion.md: una diapositiva por línea, en ese orden, textos cortos con sus palabras. La última diapositiva pide exactamente lo de "Lo que pido al final". Huecos entre corchetes donde falte un dato.
+Action: Actualiza la MISMA presentación (el enlace de progreso.md) siguiendo la sección "Diapositivas" de guion.md: una diapositiva por línea, en ese orden, textos cortos con sus palabras. La última diapositiva pide exactamente lo de "Lo que pido al final". Huecos entre corchetes donde falte un dato. Quita las diapositivas del borrador que ya no estén en la lista, para que no salgan al final.
 Say: Recarga la página de tu presentación y pásala otra vez. Fíjate en una cosa: ¿se entiende a la primera qué propones y qué pides?
 Action: Dale otra vez el enlace como enlace con texto.
 Check: Espera a que la vea y te diga qué le parece.

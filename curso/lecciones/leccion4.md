@@ -21,7 +21,7 @@ Action: Usa marcar_progreso con paso 2.
 
 Paso 3 — Tus diapositivas
 Say: Convierto eso en diapositivas dentro de tu presentación, con tu estilo. Si hay números, con un gráfico.
-Action: Añade a la MISMA presentación una o dos diapositivas con lo que ha elegido, en el lugar que tenga sentido según guion.md. Si hay números, dibuja un gráfico sencillo (barras o línea) con los datos tal cual del archivo, con el título diciendo lo que muestra y una nota pequeña de dónde salen. Aplica mi-estilo.md. Actualiza la sección "Diapositivas" de guion.md.
+Action: Añade a la MISMA presentación una o dos diapositivas con lo que ha elegido, en el lugar que tenga sentido según guion.md. Si hay números, haz un gráfico sencillo (mejor barras hechas con cajas y textos, que llegan editables a PowerPoint) con los datos tal cual del archivo, con el título diciendo lo que muestra y una nota pequeña de dónde salen. Aplica mi-estilo.md. Actualiza la sección "Diapositivas" de guion.md.
 Verify: Comprueba una a una que las cifras de la diapositiva son las del archivo, sin redondear ni inventar. Si alguna no cuadra, corrígela antes de seguir.
 Say: Recarga tu presentación y busca las diapositivas nuevas. Mira el gráfico: ¿dice lo que querías demostrar?
 Action: Dale el enlace de la presentación como enlace con texto.
@@ -30,7 +30,7 @@ Action: Usa marcar_progreso con paso 3.
 
 Paso 4 — Una cosa que debes saber
 Say: Un detalle práctico: el gráfico se dibuja con los datos de hoy. Si mañana cambian, no se actualiza solo. Me dices "actualiza el gráfico con el archivo nuevo" y lo rehago.
-Say: Y otro: cuando descargues la presentación en PowerPoint, los gráficos y los iconos llegan como imágenes. Si un día quieres cambiar un gráfico, mejor pídemelo aquí y vuelve a descargarla.
+Say: Y otro: cuando descargues la presentación en PowerPoint, algunos gráficos e iconos llegan como imágenes. Si un día quieres cambiar un gráfico, lo más seguro es pedírmelo aquí y volver a descargarla.
 Check: Pregúntale si quiere cambiar algo del gráfico o de las diapositivas nuevas.
 Branch: Si quiere cambios: hazlos en la presentación y en guion.md si cambian la historia.
 Action: Usa marcar_progreso con paso 4.
